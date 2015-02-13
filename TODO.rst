@@ -9,20 +9,20 @@ General:
 * Migrate 9.0 Odoo framework to 8.0 - Being tested
 * Provide improvements on framework to enable import - Being tested
 * Create decorator function to easily migrate old parsers - Being tested
-* Wizard to link transaction to new or existing partner
-* Check and lookup IBAN account numbers
+* Wizard to link transaction to new or existing partner - Being tested
+* Check and lookup IBAN account numbers - Being tested
 * Migration of pre 8.0 banking import files, statements and transactions
 * Make it possible to import statement files that contain info for multiple
-  bank accounts
-* Support zip files containing multiple import files
-* Autonumber imported transactions
+  bank accounts - Being tested
+* Support zip files containing multiple import files - Being tested
+* Autonumber imported transactions - Being tested
 
 Parsers to be migrated:
 
 * camt.053 - Done
-* mt940 base
+* mt940 - Done
 * mt940 abnamro
-* mt940 ing
+* mt940 - Done
 * fi_patu
 * girotel
 * ing
